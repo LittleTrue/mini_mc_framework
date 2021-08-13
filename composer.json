@@ -1,6 +1,7 @@
 {
     "name": "gxz/mini_mc_framework",
     "type": "library",
+    "description": "基于TP-ORM组件框架, 小型的数据处理操作业务以组件的形式提供",
     "keywords": [
         "mc",
         "framework",
