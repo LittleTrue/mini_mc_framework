@@ -35,6 +35,9 @@ return PhpCsFixer\Config::create()
                 'author',
             ],
         ],
+        'list_syntax' => [
+            'syntax' => 'short',
+        ],
         'yoda_style' => [
             'always_move_variable' => true,
             'equal'                => true,
